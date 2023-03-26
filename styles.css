@@ -1,0 +1,11 @@
+#header {text-align: center; color: goldenrod;}
+
+#company-tag, #opening {text-align: center;}
+
+.nav-buttons {border-style: solid; border-color: goldenrod; border-width: thick; background-color: blue; padding-top: 1%; padding-bottom: 1%;}
+.btn1 { width: 13%; margin-left: 65px; margin-right: 10px;}
+.btn2 {width: 13%; margin-left: 10px; margin-right: 10px;}
+.btn3 {width: 13%; margin-left: 10px; margin-right: 10px;}
+.btn4 {width: 13%; margin-left: 10px; margin-right: 10px;}
+.btn5 {width: 13%; margin-left: 10px; margin-right: 10px;}
+.btn6 {width: 13%; margin-left: 10px; margin-right: 10px;}
